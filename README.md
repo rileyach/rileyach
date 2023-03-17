@@ -1,9 +1,9 @@
-### Hello there, friend! I'm Riley 👋
+## Hello there, friend! I'm Riley 👋
 
 <!--
 **rileyach/rileyach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-> A producer, video editor who has two years of industry experience. Always curious at heart, with a hunger for knowledge, she found interest in a place that she least expected - the world of web/software dev.
+A producer, video editor who has two years of industry experience. Always curious at heart, with a hunger for knowledge, she found interest in a place that she least expected - the world of web/software dev.
 
 
 ### Skills 💻
