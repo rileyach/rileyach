@@ -13,9 +13,8 @@ A producer, video editor who has two years of industry experience. Always curiou
 [![My Skills](https://skills.thijs.gg/icons?i=react&theme=light)](https://skills.thijs.gg)
 
 ### Projects 👩🏻‍💻
-🔭 Currently working on <i>revamping</i> my <a href="rileyhan.wixsite.com/hello">portfolio</a>.
-Hoping to utilise my newly developed coding skills and putting it to the test!
-
+- Web Dev portfolio<br>
+- <i>Revamping</i> my personal <a href="rileyhan.wixsite.com/hello">portfolio</a>.
 
 
 ### Bootcamps 🏕
