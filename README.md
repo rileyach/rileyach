@@ -14,7 +14,7 @@ A producer, video editor who has two years of industry experience. Always curiou
 
 ### Projects 👩🏻‍💻
 - Web Dev portfolio<br>
-- <i>Revamping</i> my personal <a href="rileyhan.wixsite.com/hello">portfolio</a>.
+- <i>Revamping</i> my personal [portfolio](https://rileyhan.wixsite.com/hello)
 
 
 ### Bootcamps 🏕
