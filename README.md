@@ -10,7 +10,7 @@ A producer, video editor who has two years of industry experience. Always curiou
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,nodejs,git,mysql&theme=light)](https://skills.thijs.gg)
 
 ### Learning 📖
-[![My Skills](https://skills.thijs.gg/icons?i=react&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react,nuxtjs,vue&theme=light)](https://skills.thijs.gg)
 
 ### Projects 👩🏻‍💻
 - Web Dev portfolio<br>
