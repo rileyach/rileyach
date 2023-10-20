@@ -7,19 +7,19 @@ A producer, video editor who has two years of industry experience. Always curiou
 
 
 ### Skills 💻
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,nodejs,git,mysql&theme=light)](https://skills.thijs.gg)
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,bootstrap,tailwind,ts)](https://skillicons.dev)
 ### Learning 📖
-[![My Skills](https://skills.thijs.gg/icons?i=react,nuxtjs,vue&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=vue,vite,figma,jquery)](https://skillicons.dev)
 
 ### Projects 👩🏻‍💻
 - Web Dev portfolio<br>
 - <i>Revamping</i> my personal [portfolio](https://rileyhan.wixsite.com/hello)
 
 
-### Bootcamps 🏕
+### Certifications 🏕
 📚 The Complete 2023 Web Development Bootcamp<br>
-📚 Coding.BN
+📚 Coding.BN<br>
+📚 [JSE – Certified Entry-Level JavaScript Programmer JSE-40-01](https://verify.openedg.org/?id=MvK0.4StT.QFQP) (Oct 2023)
 
 
 
